@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\55562188899\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\56809046-4740-4562-9c1c-c86b0a7e785e.png",
+      "PackagePath": "staticwebassets\\imagens\\56809046-4740-4562-9c1c-c86b0a7e785e.png"
+    },
+    {
+      "Id": "C:\\Users\\55562188899\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8cd92cc7-7650-4383-9217-edf4ca096f3f.png",
+      "PackagePath": "staticwebassets\\imagens\\8cd92cc7-7650-4383-9217-edf4ca096f3f.png"
+    },
+    {
+      "Id": "C:\\Users\\55562188899\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\fa70c9bb-054a-43e0-970f-a3cb550a1895.png",
+      "PackagePath": "staticwebassets\\imagens\\fa70c9bb-054a-43e0-970f-a3cb550a1895.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GaleriaOnline.WebApi.props",
+      "PackagePath": "build\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildTransitive\\GaleriaOnline.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
