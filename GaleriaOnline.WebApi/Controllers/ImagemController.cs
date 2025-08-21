@@ -140,7 +140,9 @@ namespace GaleriaOnline.WebApi.Controllers
                 return NotFound("Imagem não encontrada");
             }
 
-            var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory(), imagem.Caminho.Replace("/", Path.DirectorySeparatorChar.ToString()));
+            var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory(), 
+                imagem.Caminho.Replace("/", 
+                Path.DirectorySeparatorChar.ToString()));
 
             if (System.IO.File.Exists(caminhoFisico))
             {
@@ -154,7 +156,7 @@ namespace GaleriaOnline.WebApi.Controllers
                 }
             }
 
-            var deletado = await _repository.UpdateAsync(imagem);
+            var deletado = await _repository.DeleteAsync(id);
             if (!deletado)
             {
                 return StatusCode(500, "Erro ao excluir a imagem do banco");
