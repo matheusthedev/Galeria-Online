@@ -1,2 +1,3 @@
+wwwroot\imagens\04db913e-ff7e-4728-add2-9c15164b2bdc.jpg
 wwwroot\imagens\56809046-4740-4562-9c1c-c86b0a7e785e.png
 wwwroot\imagens\fa70c9bb-054a-43e0-970f-a3cb550a1895.png

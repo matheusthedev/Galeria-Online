@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\55562188899\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\04db913e-ff7e-4728-add2-9c15164b2bdc.jpg",
+      "PackagePath": "staticwebassets\\imagens\\04db913e-ff7e-4728-add2-9c15164b2bdc.jpg"
+    },
+    {
       "Id": "C:\\Users\\55562188899\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\56809046-4740-4562-9c1c-c86b0a7e785e.png",
       "PackagePath": "staticwebassets\\imagens\\56809046-4740-4562-9c1c-c86b0a7e785e.png"
     },

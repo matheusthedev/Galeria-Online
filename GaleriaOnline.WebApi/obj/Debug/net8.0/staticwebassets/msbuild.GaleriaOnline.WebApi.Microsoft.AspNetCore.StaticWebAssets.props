@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\04db913e-ff7e-4728-add2-9c15164b2bdc.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.WebApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.WebApi</BasePath>
+      <RelativePath>imagens/04db913e-ff7e-4728-add2-9c15164b2bdc.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>416fnsmvlf</Fingerprint>
+      <Integrity>uKxnzQecwMr/N5Iz8ml06RYax9OMH7JyClCItGako2w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\04db913e-ff7e-4728-add2-9c15164b2bdc.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\56809046-4740-4562-9c1c-c86b0a7e785e.png'))">
       <SourceType>Package</SourceType>
       <SourceId>GaleriaOnline.WebApi</SourceId>
